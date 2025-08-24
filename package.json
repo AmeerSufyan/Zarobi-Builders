@@ -2,7 +2,7 @@
   "name": "realstate-builder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AmeerSufyan.github.io/Projects",
+  "homepage": "https://AmeerSufyan.github.io/Zarobi-Builders",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",

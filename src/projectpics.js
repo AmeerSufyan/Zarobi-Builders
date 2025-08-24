@@ -10,34 +10,34 @@ import proj6 from './Projectpics/p5img1.avif';
 
 const project_images = {
     Bahria_town_phase_7: [
-        '/ProjectPics/room1.avif', 
-         '/ProjectPics/guestroom5.jpg',
-         '/ProjectPics/kitchen1.jpg'
+        `${process.env.PUBLIC_URL}/ProjectPics/room1.avif`, 
+         `${process.env.PUBLIC_URL}/ProjectPics/guestroom5.jpg`,
+         `${process.env.PUBLIC_URL}/ProjectPics/kitchen1.jpg`
     ],
     Bahria_town_phase_8: [
-       '/ProjectPics/room2.avif',
-       '/ProjectPics/bath1.avif',
-        '/ProjectPics/kitchen2.jpg'
+       `${process.env.PUBLIC_URL}/ProjectPics/room2.avif`,
+       `${process.env.PUBLIC_URL}/ProjectPics/bath1.avif`,
+        `${process.env.PUBLIC_URL}/ProjectPics/kitchen2.jpg`
     ],
     Bahria_town_phase_9: [
-         '/ProjectPics/room3.avif',
-         '/ProjectPics/guestroom1.jpg',
-          '/ProjectPics/kitchen3.jpg'
+         `${process.env.PUBLIC_URL}/ProjectPics/room3.avif`,
+         `${process.env.PUBLIC_URL}/ProjectPics/guestroom1.jpg`,
+          `${process.env.PUBLIC_URL}/ProjectPics/kitchen3.jpg`
     ],
      DHA_RWP_Phase_1: [
-        '/ProjectPics/room4.avif',
-         '/ProjectPics/guestroom2.jpg',
-          '/ProjectPics/bath2.jpg'
+        `${process.env.PUBLIC_URL}/ProjectPics/room4.avif`,
+         `${process.env.PUBLIC_URL}/ProjectPics/guestroom2.jpg`,
+          `${process.env.PUBLIC_URL}/ProjectPics/bath2.jpg`
     ],
      DHA_RWP_Phase_2: [
-        '/ProjectPics/room5.avif',
-         '/ProjectPics/guestroom3.jpg',
-          '/ProjectPics/kitchen4.webp'
+        `${process.env.PUBLIC_URL}/ProjectPics/room5.avif`,
+         `${process.env.PUBLIC_URL}/ProjectPics/guestroom3.jpg`,
+          `${process.env.PUBLIC_URL}/ProjectPics/kitchen4.webp`
     ],
      DHA_RWP_Phase_3: [
-        '/ProjectPics/room6.avif',
-         '/ProjectPics/guestroom4.jpg',
-          '/ProjectPics/kitchen5.jpg'
+        `${process.env.PUBLIC_URL}/ProjectPics/room6.avif`,
+         `${process.env.PUBLIC_URL}/ProjectPics/guestroom4.jpg`,
+          `${process.env.PUBLIC_URL}/ProjectPics/kitchen5.jpg`
     ]
 };
  const projectCategoryImage = {

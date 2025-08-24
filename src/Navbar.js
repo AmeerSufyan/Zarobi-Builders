@@ -17,6 +17,7 @@ const Navabr = () => {
         <NavLink to="/aboutus" activeClassName='text-blue-300'>About Us</NavLink>
          <NavLink to="/blog" activeClassName='text-blue-300' onClick={() => setMenuopen(false)}>Blog</NavLink>
         <NavLink to="/contactus" activeClassName='text-blue-300'>Contact Us</NavLink>
+        <NavLink to="/onlyAdminLogin" activeClassName='text-blue-300'>Admin Login</NavLink>
     </div>
     {menuOpen && (
         <div className={`lg:hidden  flex flex-col justify-center gap-2 py-2 lg:gap-10 ml-10 lg:font-semibold 
