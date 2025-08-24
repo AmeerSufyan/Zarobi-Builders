@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Zarobi-Builders/static/css/main.fcd45296.css",
-    "main.js": "/Zarobi-Builders/static/js/main.6549ee7b.js",
+    "main.js": "/Zarobi-Builders/static/js/main.63576773.js",
     "static/js/453.b84f2e00.chunk.js": "/Zarobi-Builders/static/js/453.b84f2e00.chunk.js",
     "static/media/blogvideo.mp4": "/Zarobi-Builders/static/media/blogvideo.25eab7ce162c6cb7b77e.mp4",
     "static/media/contactvideo.mp4": "/Zarobi-Builders/static/media/contactvideo.f1397783fb66f29db7d4.mp4",
@@ -40,11 +40,11 @@
     "static/media/slick.woff": "/Zarobi-Builders/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/Zarobi-Builders/index.html",
     "main.fcd45296.css.map": "/Zarobi-Builders/static/css/main.fcd45296.css.map",
-    "main.6549ee7b.js.map": "/Zarobi-Builders/static/js/main.6549ee7b.js.map",
+    "main.63576773.js.map": "/Zarobi-Builders/static/js/main.63576773.js.map",
     "453.b84f2e00.chunk.js.map": "/Zarobi-Builders/static/js/453.b84f2e00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcd45296.css",
-    "static/js/main.6549ee7b.js"
+    "static/js/main.63576773.js"
   ]
 }
